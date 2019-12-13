@@ -26,7 +26,7 @@ Agradecemos à WomakersCode pelo desafio e o bootcamp e à Olist pelo dataset fo
 
 ## **Grupo Malala (integrantes):**
 
-[@amandaandrade](https://github.com/amanandrade)
+[@amandandrade](https://github.com/amanandrade)
 
 [@MichelleMarighetti](https://github.com/MichelleMarighetti)
 
